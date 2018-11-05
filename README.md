@@ -4,6 +4,12 @@ Using genotyping-by-sequencing to predict gender in animals
 
 R code for predicting gender in animals with XX?XY determination systems using genotyping-by-sequencing data that accompanies the paper by Bilton et al. (2018).
 
+The Folders are:
+- [Data](Data/): The used in the publication by Bilton et al. (2018)
+- [Example](Example/): Rcode for reproducing the results in Bilton et al. (2018)
+- [Scripts](Rscripts/): R scripts for performing gender predicting using GBS data
+- [Supplementary](Supplementary/): Additional Supplementary Files for the publication by Bilton et al. (2018)
+
 
 ### Funding
 
