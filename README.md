@@ -2,7 +2,7 @@
 
 Using genotyping-by-sequencing to predict gender in animals
 
-R code for predicting gender in animals with XX?XY determination systems using genotyping-by-sequencing data that accompanies the paper by Bilton et al (2018).
+R code for predicting gender in animals with XX?XY determination systems using genotyping-by-sequencing data that accompanies the paper by Bilton et al. (2018).
 
 
 ### Funding
@@ -12,7 +12,8 @@ R code for predicting gender in animals with XX?XY determination systems using g
 
 ### References
 
-Bilton, TP, Chappell, AJ, Clarke, SM, Brauning, B, Dodds, KG, McEwan, JC, Rowe, SJ (2018). Using genotyping-by-sequencing to predict gender in animals. Unpublished Manuscript
+Bilton, T.P., Chappell, A.J., Clarke, S.M., Brauning, B., Dodds, K.G., McEwan, J.C. \& Rowe, S.J. (2018). Using genotyping-by-sequencing to predict gender in animals. Unpublished Manuscript
+
 
 
 

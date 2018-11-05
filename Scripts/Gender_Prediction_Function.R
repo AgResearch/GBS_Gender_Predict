@@ -289,7 +289,7 @@ ggplot(data=ds, aes(x=HeteroX, y=Ysnp, colour = Pheno)) + geom_point() + labs(x 
   geom_polygon(data=poly2, aes(x=x2, y=y2), fill = rgb(0,0,1,alpha=0.1), show.legend = F, inherit.aes = F) +
   geom_polygon(data=poly1, aes(x=x1, y=y1), fill = rgb(1,0,0,alpha=0.1), show.legend = F, inherit.aes = F)
 
-ggsave(paste0(output_file,"/heterozygosity_vs_SNPs_on_Y.png"), width=6, height=6)
+ggsave(paste0(output_file,"/gender-plot.png"), width=6, height=6)
 
 #dev.off()
 
