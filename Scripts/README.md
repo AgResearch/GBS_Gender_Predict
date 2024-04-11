@@ -9,7 +9,7 @@ R code for analyzing genotyping-by-sequencing data and predict the gender of red
     - `test_samples`: Filename of a csv containing the phenotypic data for the training datasets to verify the SNPs.
     - `output_file`: Path to a directory in which the results are to be written to.
 
-2. [predict_gender.R](predict_gender.R) loads in the function `predict_gender()` which performs the gender prediction. The arguments of this function are:
+2. [Gender_Prediction_Function.R](Gender_Prediction_Function.R) loads in the function `predict_gender()` which performs the gender prediction. The arguments of this function are:
     - `sampleID`: Filename of a csv file containing the ID's and phenotypic data for the dataset to predict gender for.
     - `deer_results`: Filename of a csv file containing the read counts for the dataset subsetted to contain only the sex-linked markers only (produced from the `finding_SNPs()` function).
     - `sex_markers`: Filename of a csv file containing the information of the SNPs determined to be on the Sex chromosome (produced from the `finding_SNPs()` function)
