@@ -18,7 +18,7 @@ The Folders are:
 
 ### References
 
-Bilton, T.P., Chappell, A.J., Clarke, S.M., Brauning, B., Dodds, K.G., McEwan, J.C. \& Rowe, S.J. (2018). Using genotyping-by-sequencing to predict gender in animals. Unpublished Manuscript
+Bilton, T.P., Chappell, A.J., Clarke, S.M., Brauning, B., Dodds, K.G., McEwan, J.C. \& Rowe, S.J. (2018). Using genotyping-by-sequencing to predict gender in animals. *Animal Genetics* 50(3):307-310
 
 
 
